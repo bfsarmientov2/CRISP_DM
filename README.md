@@ -6,5 +6,5 @@ En esta carpeta se encotrará
 3. Diccionario de datos.xlsx - Diccionario de datos 
 4. CRISP DM - Modelamiento de reservas.ipynb - Notebook de jupyter donde se raliza toda la parte de programación de la metodología CRISP-DM (Entendimiento de los datos, preparación de los datos y modelado)
 5. CRISP DM - Modelamiento de reservas.ipynb - Notebook de COLAB donde se raliza toda la parte de programación de la metodología CRISP-DM (Entendimiento de los datos, preparación de los datos y modelado)
-6. Link Carpeta Colab Maquinas.txt - Se adjunta link de carpeta Drive para revisar y correo el código o notebook de jupyter en colab con los insumos (excel-imagenes) necesarios para correr el código
+6. Link Carpeta Colab Maquinas.txt - Se adjunta link de carpeta Drive para revisar y correo el código o notebook de jupyter en colab con los insumos (excel-imagenes) necesarios para correr el código y video del proyecto.
 7. Modelo Naive Bayes.ipynb - Notebook tarea de Naive Bayes
